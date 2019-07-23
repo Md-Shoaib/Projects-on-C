@@ -1,0 +1,2 @@
+Hello_it's_Md_Shoaib
+This programs for understanding File I/O functions
